@@ -1,0 +1,1 @@
+A modular latex example, using make
